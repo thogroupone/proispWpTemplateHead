@@ -11,8 +11,6 @@ dataLayer.push({
 });
 </script>
 <script type="text/javascript" src="<?=$theme_url?>js/script.js?v=<?=DG_PLUGIN_VERSION?>"></script>
-<script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js"
-    data-culture="NB" type="text/javascript"></script>
 <!-- ZenDesk Chat Widget Start -->
 <script>
   const snippetId = "4d0c1495-bf25-4a0d-a174-5552b507a292"
